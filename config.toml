@@ -30,10 +30,10 @@ enableemoji = false
     unsafe = true
 
 [menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
+#    [[menu.main]]
+#        name = "Home"
+#        url = "/"
+#        weight = 1
     
     [[menu.main]]
         identifier = "academic"
@@ -51,19 +51,14 @@ enableemoji = false
                 weight = 2
             [[menu.main]]
                 parent = "academic"
-                name = "Peer Review"
-                url = "/Peer Review/"
-                weight = 3
-            [[menu.main]]
-                parent = "academic"
                 name = "Funding"
                 url = "/Funding/"
-                weight = 4
+                weight = 3
             [[menu.main]]
                 parent = "academic"
                 name = "Scholarship"
                 url = "/Scholarship/"
-                weight = 5
+                weight = 4
     
     [[menu.main]]
         identifier = "degree"
