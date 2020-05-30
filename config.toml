@@ -1,0 +1,173 @@
+baseURL = "https://example.com"
+#CanonifyURLs=true
+
+languageCode = "en-us"
+theme = "ramium"
+
+title = "UH Pol Sci"
+disqusShortname = ""
+googleAnalytics = ""
+summaryLength = 40
+pluralizeListTitles = false
+enableemoji = false
+
+[params]
+    description = "A description for the meta tag of the site"
+    googleSearch = ""
+    showDate = true # make false if dont want to show date
+    math = false # best to enable this in the front matter of a page
+    githubProfile = "" #rafed/ramium/
+
+    tagsInHome = 40
+    sectionsInHome = 5
+    paginatePostsPerPage = 5
+    paginateTagsPerPage = 6
+
+[taxonomies]
+    tag = "tags"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    
+    [[menu.main]]
+        identifier = "academic"
+        name = "Academic Progress"
+        weight = 2
+            [[menu.main]]
+                parent = "academic"
+                name = "Research"
+                url = "/Research/"
+                weight = 1
+            [[menu.main]]
+                parent = "academic"
+                name = "Conference"
+                url = "/Conference/"
+                weight = 2
+            [[menu.main]]
+                parent = "academic"
+                name = "Peer Review"
+                url = "/Peer Review/"
+                weight = 3
+            [[menu.main]]
+                parent = "academic"
+                name = "Funding"
+                url = "/Funding/"
+                weight = 4
+            [[menu.main]]
+                parent = "academic"
+                name = "Scholarship"
+                url = "/Scholarship/"
+                weight = 5
+    
+    [[menu.main]]
+        identifier = "degree"
+        name = "Degree Plan"
+        weight = 3
+          [[menu.main]]
+                parent = "degree"
+                name = "COMPS"
+                url = "/COMPS/"
+                weight = 1
+          [[menu.main]]
+                parent = "degree"
+                name = "Dissertation"
+                url = "/Dissertation/"
+                weight = 2
+          [[menu.main]]
+                parent = "degree"
+                name = "Qualifying Paper"
+                url = "/Qualifying Paper/"
+                weight = 3
+          [[menu.main]]
+                parent = "degree"
+                name = "Ph.D Handbook"
+                url = "/Ph.D Handbook/"
+                weight = 4
+    
+    [[menu.main]]
+        identifier = "ta"
+        name = "Teaching Assistant"
+        weight = 4
+          [[menu.main]]
+                parent = "ta"
+                name = "Blackboard"
+                url = "/Blackboard/"
+                weight = 1
+    
+    [[menu.main]]
+        identifier = "skills"
+        name = "Useful Skills"
+        weight = 5
+          [[menu.main]]
+                parent = "skills"
+                name = "Github"
+                url = "/Github/"
+                weight = 1
+          [[menu.main]]
+                parent = "skills"
+                name = "LaTeX"
+                url = "/LaTeX/"
+                weight = 2
+          [[menu.main]]
+                parent = "skills"
+                name = "Qualtrics"
+                url = "/Qualtrics/"
+                weight = 3
+          [[menu.main]]
+                parent = "skills"
+                name = "Markdown"
+                url = "/Markdown/"
+                weight = 4
+          
+    
+    [[menu.main]]
+        identifier = "life"
+        name = "Life in Houston"
+        weight = 6
+          [[menu.main]]
+                parent = "life"
+                name = "Health Care"
+                url = "/Health Care/"
+                weight = 3
+          [[menu.main]]
+                parent = "life"
+                name = "Housing"
+                url = "/Housing/"
+                weight = 1
+          [[menu.main]]
+                parent = "life"
+                name = "Automobile"
+                url = "/Automobile/"
+                weight = 2
+        
+    [[menu.main]]
+        identifier = "job"
+        name = "Job Market"
+        weight = 7
+          [[menu.main]]
+                parent = "job"
+                name = "Building Website"
+                url = "/Building Website/"
+                weight = 1
+          [[menu.main]]
+                parent = "job"
+                name = "Job Opportunities"
+                url = "/Job Opportunities/"
+                weight = 2
+          [[menu.main]]
+                parent = "job"
+                name = "Sharing Experience"
+                url = "/Sharing Experience/"
+                weight = 3
+                
+    [[menu.main]]
+        name = "Share Your Thoughts"
+        url = "/Share Your Thoughts/"
+        weight = 8
+    

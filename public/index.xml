@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Community for Graduate Students on UH Pol Sci</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Online Community for Graduate Students on UH Pol Sci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build a professional personal website in 20 minutes?</title>
+      <link>https://example.com/building-website/1.get-started/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/building-website/1.get-started/</guid>
+      <description>This post aims to provide a tutorial on building a professional personal website in a cost-effective way.</description>
+    </item>
+    
+    <item>
+      <title>How to make an exam with an existing test bank on Blackboard?</title>
+      <link>https://example.com/blackboard/1.making-an-exam/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blackboard/1.making-an-exam/</guid>
+      <description>This article details how to use Blackboard to make an exam.</description>
+    </item>
+    
+    <item>
+      <title>I got a job!</title>
+      <link>https://example.com/sharing-experience/1.-i-got-a-job/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/sharing-experience/1.-i-got-a-job/</guid>
+      <description>This post is aimed to share someone&#39;s experience of getting a job in the hope of helping other fellow students.</description>
+    </item>
+    
+    <item>
+      <title>Share your thoughts on this website</title>
+      <link>https://example.com/share-your-thoughts/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/share-your-thoughts/</guid>
+      <description>This post provides a guide on how to share thoughts on the website.
+The website would not be possible without the generous sharing of our professors and fellow students. We hope everyone could benefit from the materials, and we look forward to learning from you.</description>
+    </item>
+    
+    <item>
+      <title>There is an opportunity!</title>
+      <link>https://example.com/job-opportunities/1.job-opportunity/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/job-opportunities/1.job-opportunity/</guid>
+      <description>Hi guys, Harvard has an open position. Anyone interested?</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/markdown/1.-markdown-syntax/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/markdown/1.-markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/posts/1.-markdown-syntax/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/1.-markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to upload Rich Content (e.g. videos) to the website?</title>
+      <link>https://example.com/building-website/2.rich-content/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/building-website/2.rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://example.com/housing/3.-rich-content/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/housing/3.-rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/health-care/4.-emoji-support/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/health-care/4.-emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/posts/4.-emoji-support/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/4.-emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://example.com/research/1.-math-typesetting/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/1.-math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday Chords</title>
+      <link>https://example.com/peer-review/1.-happy-birthday-chords/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/peer-review/1.-happy-birthday-chords/</guid>
+      <description>Happy ABirthday Eto youHappy EBirthday Ato youHappy A7Birthday dear DJohnnyHappy ABirthday Eto Ayou </description>
+    </item>
+    
+    <item>
+      <title>About Author</title>
+      <link>https://example.com/author/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
+      
+      <guid>https://example.com/author/</guid>
+      <description>I am John Doe. And I can confirm that this is the best theme ever!</description>
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>https://example.com/admin/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://example.com/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Sections</title>
+      <link>https://example.com/sections/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://example.com/sections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

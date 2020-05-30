@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharing Experience on UH Pol Sci</title>
+    <link>https://example.com/sharing-experience/</link>
+    <description>Recent content in Sharing Experience on UH Pol Sci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/sharing-experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I got a job!</title>
+      <link>https://example.com/sharing-experience/1.-i-got-a-job/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/sharing-experience/1.-i-got-a-job/</guid>
+      <description>This post is aimed to share someone&#39;s experience of getting a job in the hope of helping other fellow students.</description>
+    </item>
+    
+  </channel>
+</rss>

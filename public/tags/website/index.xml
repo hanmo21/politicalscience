@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on UH Pol Sci</title>
+    <link>https://example.com/tags/website/</link>
+    <description>Recent content in website on UH Pol Sci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build a professional personal website in 20 minutes?</title>
+      <link>https://example.com/building-website/1.get-started/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/building-website/1.get-started/</guid>
+      <description>This post aims to provide a tutorial on building a professional personal website in a cost-effective way.</description>
+    </item>
+    
+    <item>
+      <title>Share your thoughts on this website</title>
+      <link>https://example.com/share-your-thoughts/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/share-your-thoughts/</guid>
+      <description>This post provides a guide on how to share thoughts on the website.
+The website would not be possible without the generous sharing of our professors and fellow students. We hope everyone could benefit from the materials, and we look forward to learning from you.</description>
+    </item>
+    
+  </channel>
+</rss>
