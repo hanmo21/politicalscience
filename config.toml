@@ -23,8 +23,8 @@ enableemoji = false
     paginatePostsPerPage = 5
     paginateTagsPerPage = 6
 
-#[taxonomies]
-#    tag = "tags"
+[taxonomies]
+    tag = "tags"
 
 [markup.goldmark.renderer]
     unsafe = true
