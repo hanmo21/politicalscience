@@ -79,11 +79,6 @@ enableemoji = false
                 name = "Qualifying Paper"
                 url = "/Qualifying Paper/"
                 weight = 3
-          [[menu.main]]
-                parent = "degree"
-                name = "Ph.D Handbook"
-                url = "/Ph.D Handbook/"
-                weight = 4
     
     [[menu.main]]
         identifier = "ta"
@@ -127,11 +122,6 @@ enableemoji = false
         weight = 6
           [[menu.main]]
                 parent = "life"
-                name = "Health Care"
-                url = "/Health Care/"
-                weight = 3
-          [[menu.main]]
-                parent = "life"
                 name = "Housing"
                 url = "/Housing/"
                 weight = 1
@@ -140,7 +130,12 @@ enableemoji = false
                 name = "Automobile"
                 url = "/Automobile/"
                 weight = 2
-        
+          [[menu.main]]
+                parent = "life"
+                name = "Health Care"
+                url = "/Health Care/"
+                weight = 3
+                
     [[menu.main]]
         identifier = "job"
         name = "Job Market"
