@@ -147,14 +147,9 @@ enableemoji = false
                 weight = 1
           [[menu.main]]
                 parent = "job"
-                name = "Job Opportunities"
-                url = "/Job Opportunities/"
-                weight = 2
-          [[menu.main]]
-                parent = "job"
                 name = "Sharing Experience"
                 url = "/Sharing Experience/"
-                weight = 3
+                weight = 2
                 
     [[menu.main]]
         name = "Share Your Thoughts"
