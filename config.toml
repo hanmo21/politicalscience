@@ -122,19 +122,24 @@ enableemoji = false
         weight = 6
           [[menu.main]]
                 parent = "life"
+                name = "Dining"
+                url = "/Dining/"
+                weight = 1
+          [[menu.main]]
+                parent = "life"
                 name = "Housing"
                 url = "/Housing/"
-                weight = 1
+                weight = 2
           [[menu.main]]
                 parent = "life"
                 name = "Automobile"
                 url = "/Automobile/"
-                weight = 2
+                weight = 3
           [[menu.main]]
                 parent = "life"
                 name = "Health Care"
                 url = "/Health Care/"
-                weight = 3
+                weight = 4
                 
     [[menu.main]]
         identifier = "job"
