@@ -1,7 +1,6 @@
 ---
 title: Applying for fundings
 date: 2020-04-10
-# description: funding
 tags: ["funding"]
 ---
 
