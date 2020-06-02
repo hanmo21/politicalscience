@@ -5,4 +5,4 @@ description:
 tags: ["blackboard"]
 ---
 
-As teaching assistants, we often need to manage grades on Blackboard. How to do it more efficiently?
+As teaching assistants, we often need to manage grades on Blackboard. For example, we may need to assign weights on different tasks, and we may need to export the grades for analysis. How could we work more efficiently?
